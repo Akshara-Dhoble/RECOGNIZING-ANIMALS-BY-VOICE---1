@@ -1,0 +1,24 @@
+body{
+    font-family: 'Special Elite', cursive ;
+    background-color: lemonchiffon;
+}
+.header_div{
+    color: crimson;
+    background:White;
+}
+.header_div p {
+    font-family: 'Roboto' , sans-serif;
+    font-size: 12px; 
+    letter-spacing: 2px;
+    font-weight: bold;
+    color: crimson;
+
+}
+.main_div{
+    font-family: 'Special Elite', cursive ;
+    color: crimson;
+}
+.copy_right_footer{
+    font-family: 'Special Elite', cursive ;
+    color: crimson;
+}
